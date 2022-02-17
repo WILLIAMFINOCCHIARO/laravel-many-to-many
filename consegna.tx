@@ -1,0 +1,9 @@
+Ciao ragazzi,
+creiamo con Laravel la nostra alternativa al più famoso CMS del modo: WordPress.
+Oggi iniziamo un nuovo progetto che si arricchirà nel corso delle prossime lezioni: man mano aggiungeremo funzionalità e vedremo la nostra applicazione crescere ed evolvere.  :faccia_che_festeggia:
+Nel pomeriggio, rifate ciò che abbiamo visto insieme stamattina:
+Creazione del progetto laravel utilizzando lo scaffolding di bootstrap con --auth
+Separazione dei controller del back office all'interno della cartella/namespace Admin
+Creazione di un gruppo di rotte per il back office con prefisso, namespace e middleware auth
+Inizio della Crud per la risorsa "Post" (almeno la index)
+Non c'è nulla di creativo :sorriso_con_goccia_sudore: dovete solo stare attenti e seguire un flusso che vi permetterà di organizzare al meglio il vostro progetto! un piccolo sforzo iniziale che vi semplificherà la vita in futuro! :occhiolino:
